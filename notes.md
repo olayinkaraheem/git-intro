@@ -35,6 +35,6 @@
 
         `git push --set-upstream <remote_name> <branch_name>`
 
-    - for an exsiting upstream branch
+    - for an existing upstream branch
 
         `git push`
