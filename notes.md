@@ -81,3 +81,9 @@
         `git checkout <folder_name>`
 
         `git checkout .`
+
+## Merge changes from one branch to another
+
+- git merge
+
+    `git merge <source_branch>`
